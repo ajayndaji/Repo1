@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 1441-EE3F
+
+ Directory of D:\@jaykumarDaji\study\IT\Git and GitHub\MyGitProject
+
+27-04-2021  11:55    <DIR>          .
+27-04-2021  11:55    <DIR>          ..
+27-04-2021  11:55                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  158,579,761,152 bytes free
